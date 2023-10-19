@@ -1,4 +1,4 @@
-package com.WebService.project;
+package com.webservice.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
