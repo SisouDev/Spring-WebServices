@@ -35,3 +35,19 @@
         <li>Run the project as a Spring Boot application.</li>
         <li>The application will start, and you can access the Web Services endpoints.</li>
     </ol>
+
+   <h2>CRUD Operations</h2>
+
+   <p>The application provides endpoints for Create, Retrieve, Update, and Delete operations. You can access these endpoints through HTTP requests.</p>
+
+   <h2>Exception Handling</h2>
+
+   <p>Exception handling is implemented to provide meaningful error responses in case of issues during API requests.</p>
+
+   <h2>Contributing</h2>
+
+   <p>Feel free to contribute to this project by opening issues or submitting pull requests.</p>
+
+   <h2>License</h2>
+
+   <p>Unlicensed, free to use, contact me.</p>
