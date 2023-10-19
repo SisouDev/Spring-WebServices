@@ -2,7 +2,7 @@
 <h1>Spring Boot Web Services with Hibernate and JPA</h1>
  <h2>Objectives</h2>
 
-    <p>This project aims to:</p>
+   <p>This project aims to:</p>
     <ul>
         <li>Create a Java Spring Boot project</li>
         <li>Implement a domain model</li>
@@ -13,11 +13,11 @@
         <li>Handle exceptions</li>
     </ul>
 
-    <h2>Getting Started</h2>
+   <h2>Getting Started</h2>
 
-    <h3>Prerequisites</h3>
+   <h3>Prerequisites</h3>
 
-    <p>Before you start, make sure you have the following installed:</p>
+   <p>Before you start, make sure you have the following installed:</p>
     <ul>
         <li>Java Development Kit (JDK)</li>
         <li>Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse</li>
@@ -25,7 +25,7 @@
     </ul>
      <h3>Running the Application</h3>
 
-    <ol>
+   <ol>
         <li>Clone this repository to your local machine.</li>
         <pre>
             <code>git clone https://github.com/yourusername/your-project.git</code>
