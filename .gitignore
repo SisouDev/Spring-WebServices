@@ -44,7 +44,7 @@ build/
 
 mvnw
 mvnw.cmd
-.mvn
+.mvn/*
 
 
 # Mobile Tools for Java (J2ME)
