@@ -42,6 +42,11 @@ build/
 # BlueJ files
 *.ctxt
 
+mvnw
+mvnw.cmd
+.mvn
+
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
